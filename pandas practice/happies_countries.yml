@@ -1,0 +1,303 @@
+year: 2024-2025
+source: World Happiness Report
+top_100:
+  - rank: 1
+    country: Finland
+    score: 7.74
+  - rank: 2
+    country: Denmark
+    score: 7.58
+  - rank: 3
+    country: Iceland
+    score: 7.53
+  - rank: 4
+    country: Sweden
+    score: 7.34
+  - rank: 5
+    country: Israel
+    score: 7.34
+  - rank: 6
+    country: Netherlands
+    score: 7.32
+  - rank: 7
+    country: Norway
+    score: 7.30
+  - rank: 8
+    country: Luxembourg
+    score: 7.12
+  - rank: 9
+    country: Australia
+    score: 7.06
+  - rank: 10
+    country: Switzerland
+    score: 7.06
+  - rank: 11
+    country: New Zealand
+    score: 7.03
+  - rank: 12
+    country: Costa Rica
+    score: 6.96
+  - rank: 13
+    country: Kuwait
+    score: 6.95
+  - rank: 14
+    country: Austria
+    score: 6.91
+  - rank: 15
+    country: Canada
+    score: 6.90
+  - rank: 16
+    country: Belgium
+    score: 6.89
+  - rank: 17
+    country: Ireland
+    score: 6.84
+  - rank: 18
+    country: Czechia
+    score: 6.82
+  - rank: 19
+    country: Lithuania
+    score: 6.82
+  - rank: 20
+    country: United Kingdom
+    score: 6.75
+  - rank: 21
+    country: Slovenia
+    score: 6.74
+  - rank: 22
+    country: United States
+    score: 6.73
+  - rank: 23
+    country: United Arab Emirates
+    score: 6.73
+  - rank: 24
+    country: Germany
+    score: 6.72
+  - rank: 25
+    country: Mexico
+    score: 6.68
+  - rank: 26
+    country: France
+    score: 6.61
+  - rank: 27
+    country: Uruguay
+    score: 6.61
+  - rank: 28
+    country: Saudi Arabia
+    score: 6.59
+  - rank: 29
+    country: Singapore
+    score: 6.52
+  - rank: 30
+    country: Taiwan
+    score: 6.50
+  - rank: 31
+    country: Romania
+    score: 6.49
+  - rank: 32
+    country: El Salvador
+    score: 6.47
+  - rank: 33
+    country: Estonia
+    score: 6.45
+  - rank: 34
+    country: Poland
+    score: 6.44
+  - rank: 35
+    country: Spain
+    score: 6.42
+  - rank: 36
+    country: Serbia
+    score: 6.41
+  - rank: 37
+    country: Chile
+    score: 6.36
+  - rank: 38
+    country: Panama
+    score: 6.36
+  - rank: 39
+    country: Malta
+    score: 6.35
+  - rank: 40
+    country: Italy
+    score: 6.32
+  - rank: 41
+    country: Guatemala
+    score: 6.29
+  - rank: 42
+    country: Nicaragua
+    score: 6.28
+  - rank: 43
+    country: Brazil
+    score: 6.27
+  - rank: 44
+    country: Slovakia
+    score: 6.26
+  - rank: 45
+    country: Latvia
+    score: 6.23
+  - rank: 46
+    country: Uzbekistan
+    score: 6.20
+  - rank: 47
+    country: Argentina
+    score: 6.19
+  - rank: 48
+    country: Kazakhstan
+    score: 6.19
+  - rank: 49
+    country: Cyprus
+    score: 6.07
+  - rank: 50
+    country: Japan
+    score: 6.06
+  - rank: 51
+    country: South Korea
+    score: 6.06
+  - rank: 52
+    country: Philippines
+    score: 6.05
+  - rank: 53
+    country: Vietnam
+    score: 6.04
+  - rank: 54
+    country: Portugal
+    score: 6.03
+  - rank: 55
+    country: Hungary
+    score: 6.02
+  - rank: 56
+    country: Thailand
+    score: 5.98
+  - rank: 57
+    country: Malaysia
+    score: 5.98
+  - rank: 58
+    country: Paraguay
+    score: 5.98
+  - rank: 59
+    country: China
+    score: 5.97
+  - rank: 60
+    country: Honduras
+    score: 5.97
+  - rank: 61
+    country: Bahrain
+    score: 5.96
+  - rank: 62
+    country: Croatia
+    score: 5.94
+  - rank: 63
+    country: Greece
+    score: 5.93
+  - rank: 64
+    country: Bosnia and Herzegovina
+    score: 5.88
+  - rank: 65
+    country: Libya
+    score: 5.87
+  - rank: 66
+    country: Peru
+    score: 5.84
+  - rank: 67
+    country: Jamaica
+    score: 5.84
+  - rank: 68
+    country: Dominican Republic
+    score: 5.82
+  - rank: 69
+    country: Moldova
+    score: 5.82
+  - rank: 70
+    country: Mauritius
+    score: 5.82
+  - rank: 71
+    country: Russia
+    score: 5.79
+  - rank: 72
+    country: Bolivia
+    score: 5.78
+  - rank: 73
+    country: Ecuador
+    score: 5.73
+  - rank: 74
+    country: Montenegro
+    score: 5.71
+  - rank: 75
+    country: Colombia
+    score: 5.70
+  - rank: 76
+    country: Mongolia
+    score: 5.70
+  - rank: 77
+    country: Venezuela
+    score: 5.61
+  - rank: 78
+    country: Indonesia
+    score: 5.57
+  - rank: 79
+    country: Bulgaria
+    score: 5.46
+  - rank: 80
+    country: Armenia
+    score: 5.46
+  - rank: 81
+    country: South Africa
+    score: 5.42
+  - rank: 82
+    country: North Macedonia
+    score: 5.37
+  - rank: 83
+    country: Algeria
+    score: 5.36
+  - rank: 84
+    country: Hong Kong
+    score: 5.32
+  - rank: 85
+    country: Albania
+    score: 5.30
+  - rank: 86
+    country: Tajikistan
+    score: 5.28
+  - rank: 87
+    country: Mozambique
+    score: 5.22
+  - rank: 88
+    country: Republic of the Congo
+    score: 5.22
+  - rank: 89
+    country: Georgia
+    score: 5.19
+  - rank: 90
+    country: Iraq
+    score: 5.17
+  - rank: 91
+    country: Nepal
+    score: 5.16
+  - rank: 92
+    country: Laos
+    score: 5.14
+  - rank: 93
+    country: Gabon
+    score: 5.11
+  - rank: 94
+    country: Ivory Coast
+    score: 5.08
+  - rank: 95
+    country: Guinea
+    score: 5.02
+  - rank: 96
+    country: Turkey
+    score: 4.98
+  - rank: 97
+    country: Senegal
+    score: 4.97
+  - rank: 98
+    country: Iran
+    score: 4.92
+  - rank: 99
+    country: Azerbaijan
+    score: 4.89
+  - rank: 100
+    country: Nigeria
+    score: 4.88
