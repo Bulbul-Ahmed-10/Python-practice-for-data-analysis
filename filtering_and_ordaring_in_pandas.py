@@ -14,5 +14,5 @@ df_filtered_countries_by_str = df[df['Country (or dependency)'].str.contains('Un
 df2 = df.set_index('Country (or dependency)')
 # print(df2)
 
-filtered_df2 = df2.filter(items=['Population (2026)', 'Urban Pop %'])
+filtered_df2 = df2.filter(like='United', axis=0)
 print(filtered_df2)
